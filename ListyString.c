@@ -1,5 +1,4 @@
 // Nicholas Espinosa
-// PID 2431401, NID ni714231
 // 10.18.2015
 // Assignment 3, ListyString.c
 
